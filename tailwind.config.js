@@ -55,9 +55,9 @@ export default {
             'main-gradient': 'linear-gradient(191deg, #82B4F91A 1%, #82B4F942 10%, #82B4F94F 12%, #FFFFFF08 32%),' +
                 'radial-gradient(55% 25% at 86% 39%, #EA00FF1C 0%, #EA00FF17 17%, #EA00FF1C 29%, #EA00FF1A 42%, #FF07C100 100%),' +
                 'linear-gradient(27deg, #FFFFFFFF 0%, #A7C3E8FF 100%)',
-            'main-website-pic': 'url(./green-dress.png)',
-            'detail-one-website-pic': 'url(./green-dress-2.png)',
-            'detail-two-website-pic': 'url(./green-dress-3.png)',
+            'main-website-pic': 'url(/green-dress.png)',
+            'detail-one-website-pic': 'url(/green-dress-2.png)',
+            'detail-two-website-pic': 'url(/green-dress-3.png)',
         },
     },
     plugins: [
