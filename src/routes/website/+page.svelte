@@ -90,7 +90,7 @@
         {/if}
         <div class="flex items-center lg:items-end justify-center col-start-1 col-end-13 row-start-1 row-end-2
         lg:col-start-6 lg:col-end-7 lg:row-start-2 lg:row-end-8 lg:vertical-lr">
-            <span class="text-sm pr-2 lg:pb-6">Ref. 122333445</span>
+            <span class="text-sm pr-2 lg:pr-0 lg:pb-6">Ref. 122333445</span>
             <span class="bg-black lg:right-3 relative h-1px w-16 lg:h-16 lg:w-1px"></span>
             <span class="text-sm pl-2 lg:pt-6">Viscose green dress</span>
         </div>
